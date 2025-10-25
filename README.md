@@ -48,7 +48,6 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ### ⚡ GitHub Stats
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadhemmat&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhemmat&layout=compact&theme=tokyonight)
 
 ---
 
