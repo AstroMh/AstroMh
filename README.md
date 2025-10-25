@@ -30,9 +30,6 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ### 🛠️ Tech Stack
 `Python` | `C` | `C++` | `C#` | `TensorFlow` | `OpenCV` | `Scikit-learn` | `Git` | `NumPy` | `Matplotlib`
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Status](https://img.shields.io/badge/Project-WIP-yellow)
 
 ---
 
