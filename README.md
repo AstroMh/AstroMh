@@ -12,6 +12,7 @@ I’m curious about how systems think, how they can be made smarter, and how the
 ---
 
 ### 🤖 Interests
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=AI+%26+Robotics+Enthusiast;Cybersecurity+Explorer;Computer+Engineering+Student)](https://git.io/typing-svg)
 - 🤖 Artificial Intelligence & Robotics  
 - 🧠 Deep Learning & Generative Models  
 - 🛰️ Space & Tech Innovations  
@@ -29,6 +30,9 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ### 🛠️ Tech Stack
 `Python` | `C` | `C++` | `C#` | `TensorFlow` | `OpenCV` | `Scikit-learn` | `Git` | `NumPy` | `Matplotlib`
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Status](https://img.shields.io/badge/Project-WIP-yellow)
 
 ---
 
@@ -58,10 +62,4 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 ✨ _Thanks for stopping by — let's build something intelligent together!_
 
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Status](https://img.shields.io/badge/Project-WIP-yellow)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=AI+%26+Robotics+Enthusiast;Cybersecurity+Explorer;Computer+Engineering+Student)](https://git.io/typing-svg)
 
