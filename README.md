@@ -1,11 +1,12 @@
-# 👋 Hey, I'm Mohammad Hemmat [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=AI+%26+Robotics+Enthusiast;Cybersecurity+Explorer;Computer+Engineering+Student)](https://git.io/typing-svg)
+# 👋 Hey, I'm Mohammad Hemmat
 
 🎓 **Scholarship student at Peter the Great St. Petersburg Polytechnic University, Russia**  
 💻 **Computer Engineering student** passionate about **AI, Robotics, and Cybersecurity**
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me 
+####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=AI+%26+Robotics+Enthusiast;Cybersecurity+Explorer;Computer+Engineering+Student)](https://git.io/typing-svg)
 I love exploring how intelligence and technology merge — from **robotic movement control** to **deep neural models** that can create, learn, and adapt.  
 I’m curious about how systems think, how they can be made smarter, and how they can be kept secure.
 
