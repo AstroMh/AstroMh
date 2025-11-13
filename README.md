@@ -14,7 +14,7 @@ I’m curious about how systems think, how they can be made smarter, and how the
 
 ### 🤖 Interests
 - 🤖 Artificial Intelligence & Robotics  
-- 🧠 Deep Learning & Generative Models  
+- 🧠 Deep Learning, Computer Vision & Generative Models  
 - 🛰️ Space & Tech Innovations  
 - 💻 Cybersecurity, Penetration Testing & Bug Bounty  
 - ⚙️ Embedded Systems & Hardware Integration  
