@@ -92,9 +92,8 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
   </a>
 </p>
 
-<!-- Replace with your actual email address -->
 <p align="center">
-  <a href="mailto:your_email_here">
+  <a href="mailto:mohammad.hemmat84@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
