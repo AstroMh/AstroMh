@@ -122,10 +122,7 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstroMh&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AstroMh&theme=tokyonight" height="160" alt="GitHub Streak"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=AstroMh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
