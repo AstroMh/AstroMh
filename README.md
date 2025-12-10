@@ -8,11 +8,9 @@
 ---
 
 ### 🚀 About Me
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=AI+%26+Robotics+Enthusiast;Cybersecurity+Explorer;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
-</p>
 
 I love exploring how intelligence and technology merge — from **robotic movement control** to **deep neural models** that can create, learn, and adapt.  
 I’m curious about how systems think, how they can be made smarter, and how they can be kept secure.
@@ -45,7 +43,7 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </p>
 
@@ -71,14 +69,6 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
-
----
-
-### 🧩 Featured Projects
-
-<!-- Replace repo names with your actual repos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadhemmat&repo=vortex-ai-robot&theme=tokyonight)](https://github.com/mohammadhemmat/vortex-ai-robot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadhemmat&repo=another-cool-project&theme=tokyonight)](https://github.com/mohammadhemmat/another-cool-project)
 
 ---
 
