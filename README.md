@@ -115,10 +115,10 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ### 🐍 Contribution Snake
 
-<!-- To make this work, you need to set up a GitHub Action that generates this SVG into the 'output' branch -->
 <p align="center">
-  <img src="https://github.com/mohammadhemmat/mohammadhemmat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/AstoMh/AstoMh/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 ---
 
