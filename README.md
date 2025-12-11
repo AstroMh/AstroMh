@@ -120,13 +120,11 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ---
 
-### 🔥 Streak Stats
+### 📊 Profile Summary
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AstroMh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AstroMh&show_icons=true" alt="GitHub Stats Alt"/>
 </p>
-
-
 
 ---
 
