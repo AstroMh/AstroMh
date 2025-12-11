@@ -120,11 +120,12 @@ a simulation-based robotic system capable of orbiting, attacking, and adapting t
 
 ---
 
-### ⚡ GitHub Stats
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstroMh" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=AstroMh&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
 
 
 ---
