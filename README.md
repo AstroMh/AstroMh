@@ -28,8 +28,7 @@ I’m curious about how systems think, how they can be made smarter, and how the
 ---
 
 ### 🔭 Current Project
-Building an **Intelligent Fighting Robot AI model** —  
-a simulation-based robotic system capable of orbiting, attacking, and adapting to its target with intelligent behavior powered by **"Vortex AI"**.
+Palantir: an end-to-end Machine Learning Network Intrusion Detection System (NIDS) that uses XGBoost to identify malicious network traffic based on the NSL-KDD dataset. The project covers the complete machine learning pipeline—from data preprocessing and model training to evaluation—and is designed for deployment on a Raspberry Pi for real-time edge intrusion detection.
 
 ---
 
